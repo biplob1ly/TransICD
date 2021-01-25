@@ -1,0 +1,168 @@
+Epoch 1 started ... Ended
+Epoch 2 started ... Ended
+Epoch 3 started ... Ended
+Epoch 4 started ... Ended
+Epoch 5 started ... Ended
+Epoch 6 started ... Ended
+Epoch 7 started ... Ended
+Epoch 8 started ... Ended
+Epoch 9 started ... Ended
+Epoch 10 started ... Ended
+Epoch 11 started ... Ended
+Epoch 12 started ... Ended
+Epoch 13 started ... Ended
+Epoch 14 started ... Ended
+Epoch 15 started ... Ended
+Epoch 16 started ... Ended
+Epoch 17 started ... Ended
+Epoch 18 started ... Ended
+Epoch 19 started ... Ended
+Epoch 20 started ... Ended
+Epoch 21 started ... Ended
+Epoch 22 started ... Ended
+Epoch 23 started ... Ended
+Epoch 24 started ... Ended
+Epoch 25 started ... Ended
+Epoch 26 started ... Ended
+Epoch 27 started ... Ended
+Epoch 28 started ... Ended
+Epoch 29 started ... Ended
+Epoch 30 started ... Ended
+
+train accuracy: 0.09585813492063493
+train f1 score (micro): 0.7169363250993187
+train f1 score (macro): 0.6492463002384548
+train auc score (micro): 0.9589579578013996
+train auc score (macro): 0.9453680568475691
+train precision at ks [1, 5, 8, 10, 15]: [0.8973214285714286, 0.6702628968253969, 0.5381014384920635, 0.4697296626984127, 0.34915674603174607]
+
+dev accuracy: 0.06696428571428571
+dev f1 score (micro): 0.6572769953051644
+dev f1 score (macro): 0.5766615951694309
+dev auc score (micro): 0.9284111710889889
+dev auc score (macro): 0.9023084604820107
+dev precision at ks [1, 5, 8, 10, 15]: [0.8329081632653061, 0.6209183673469387, 0.5039859693877551, 0.4426658163265306, 0.33588435374149667]
+
+test accuracy: 0.05555555555555555
+test f1 score (micro): 0.6466637250576065
+test f1 score (macro): 0.5592676824479099
+test auc score (micro): 0.9238912895539683
+test auc score (macro): 0.8957257651229835
+test precision at ks [1, 5, 8, 10, 15]: [0.8339120370370371, 0.6197916666666666, 0.5076678240740741, 0.44930555555555557, 0.3425154320987654]
+Epoch 1 started ... Ended
+Epoch 2 started ... Ended
+Epoch 3 started ... Ended
+Epoch 4 started ... Ended
+Epoch 5 started ... Ended
+Epoch 6 started ... Ended
+Epoch 7 started ... Ended
+Epoch 8 started ... Ended
+Epoch 9 started ... Ended
+Epoch 10 started ... Ended
+Epoch 11 started ... Ended
+Epoch 12 started ... Ended
+Epoch 13 started ... Ended
+Epoch 14 started ... Ended
+Epoch 15 started ... Ended
+Epoch 16 started ... Ended
+Epoch 17 started ... Ended
+Epoch 18 started ... Ended
+Epoch 19 started ... Ended
+Epoch 20 started ... Ended
+Epoch 21 started ... Ended
+Epoch 22 started ... Ended
+Epoch 23 started ... Ended
+Epoch 24 started ... Ended
+Epoch 25 started ... Ended
+Epoch 26 started ... Ended
+Epoch 27 started ... Ended
+Epoch 28 started ... Ended
+Epoch 29 started ... Ended
+Epoch 30 started ... Ended
+Epoch 31 started ... Ended
+Epoch 32 started ... Ended
+Epoch 33 started ... Ended
+Epoch 34 started ... Ended
+Epoch 35 started ... Ended
+
+train accuracy: 0.1032986111111111
+train f1 score (micro): 0.7217613857087362
+train f1 score (macro): 0.6521449913532733
+train auc score (micro): 0.9610981582395686
+train auc score (macro): 0.9492574836773143
+train precision at ks [1, 5, 8, 10, 15]: [0.9031498015873016, 0.6770089285714286, 0.5421316964285714, 0.47216021825396826, 0.35076884920634926]
+
+dev accuracy: 0.06377551020408163
+dev f1 score (micro): 0.6374305833858133
+dev f1 score (macro): 0.5542053253547433
+dev auc score (micro): 0.9219198542194549
+dev auc score (macro): 0.8941567033592992
+dev precision at ks [1, 5, 8, 10, 15]: [0.8227040816326531, 0.6099489795918367, 0.49473852040816324, 0.43654336734693877, 0.3336734693877551]
+
+test accuracy: 0.050347222222222224
+test f1 score (micro): 0.6305970149253731
+test f1 score (macro): 0.5433152477926441
+test auc score (micro): 0.9190075668666973
+test auc score (macro): 0.8904649111764716
+test precision at ks [1, 5, 8, 10, 15]: [0.8136574074074074, 0.6035879629629629, 0.49877025462962965, 0.4416666666666667, 0.33977623456790124]
+Epoch 1 started ... Ended
+Epoch 2 started ... Ended
+Epoch 3 started ... Ended
+Epoch 4 started ... Ended
+Epoch 5 started ... Ended
+Epoch 6 started ... Ended
+Epoch 7 started ... Ended
+Epoch 8 started ... Ended
+Epoch 9 started ... Ended
+Epoch 10 started ... Ended
+Epoch 11 started ... Ended
+Epoch 12 started ... Ended
+Epoch 13 started ... Ended
+Epoch 14 started ... Ended
+Epoch 15 started ... Ended
+Epoch 16 started ... Ended
+Epoch 17 started ... Ended
+Epoch 18 started ... Ended
+Epoch 19 started ... Ended
+Epoch 20 started ... Ended
+Epoch 21 started ... Ended
+Epoch 22 started ... Ended
+Epoch 23 started ... Ended
+Epoch 24 started ... Ended
+Epoch 25 started ... Ended
+Epoch 26 started ... Ended
+Epoch 27 started ... Ended
+Epoch 28 started ... Ended
+Epoch 29 started ... Ended
+Epoch 30 started ... Ended
+Epoch 31 started ... Ended
+Epoch 32 started ... Ended
+Epoch 33 started ... Ended
+Epoch 34 started ... Ended
+Epoch 35 started ... Ended
+Epoch 36 started ... Ended
+Epoch 37 started ... Ended
+Epoch 38 started ... Ended
+Epoch 39 started ... Ended
+Epoch 40 started ... Ended
+
+train accuracy: 0.10863095238095238
+train f1 score (micro): 0.7391832579928417
+train f1 score (macro): 0.6789788260980515
+train auc score (micro): 0.9643696592453569
+train auc score (macro): 0.9534357613269049
+train precision at ks [1, 5, 8, 10, 15]: [0.9076140873015873, 0.684796626984127, 0.5493241567460317, 0.4785590277777778, 0.35365410052910057]
+
+dev accuracy: 0.056760204081632654
+dev f1 score (micro): 0.6393794355504209
+dev f1 score (macro): 0.5490195954022515
+dev auc score (micro): 0.9213048605575692
+dev auc score (macro): 0.8928475026756749
+dev precision at ks [1, 5, 8, 10, 15]: [0.8118622448979592, 0.6112244897959184, 0.49354272959183676, 0.4338010204081632, 0.33116496598639455]
+
+test accuracy: 0.057291666666666664
+test f1 score (micro): 0.6338512172692513
+test f1 score (macro): 0.5505336024173749
+test auc score (micro): 0.9173825976733849
+test auc score (macro): 0.8884398782546215
+test precision at ks [1, 5, 8, 10, 15]: [0.8078703703703703, 0.6077546296296297, 0.49905960648148145, 0.4410300925925926, 0.3383487654320988]
